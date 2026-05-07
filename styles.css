@@ -238,7 +238,7 @@ html[lang="zh-Hant"] .page-hero h1 {
 }
 
 .home-intro {
-  max-width: 920px;
+  max-width: 100%;
   margin-bottom: 1.35rem;
   font-size: 1.25rem;
   text-align: justify;
