@@ -394,10 +394,6 @@
     <section class="content-band">
       <div class="content-inner">
         ${highlights}
-        <div class="section-heading">
-          <h2>${escapeHTML(content.title)}</h2>
-          <p>${escapeHTML(content.summary)}</p>
-        </div>
         ${intro}
         ${columns}
         ${renderCommonContent({ ...content, body: [], actions: [] })}
