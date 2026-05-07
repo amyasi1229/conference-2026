@@ -477,20 +477,35 @@ window.CONFERENCE_SITE_DATA = {
             title: "3. 公車到中研院",
             layout: "guide",
             items: [
-              "搭乘205、212、212直、212夜、270、276、306、620或645。",
-              "也可搭乘小12、藍25、679、小5、小1或通勤7。",
-              "從南港車站轉乘時，可搭306、205、276、小12、212、679或小5。",
-              "確認目的站為「中研院」。"
+              "從捷運南港展覽館站轉乘時，可搭乘：小5、小12、205、276、306、620、645、679號公車",
+              "從南港車站轉乘時，可搭270、藍25。",
+              "確認下車站為「中研院」"
             ]
           },
           {
-            title: "4. 從公車「中研院站」下車處到住宿處",
+            title: "4. 如何到住宿處",
             layout: "guide",
-            items: [
-              "由中央研究院舊大門進入院區。",
-              "沿著「數理大道」直行。",
-              "走到底後左轉，往體育館方向前進。",
-              "接著右轉，即可抵達學術活動中心（住宿處）。"
+            routes: [
+              {
+                title: "到中研院學術活動中心",
+                items: [
+                  "搭乘公車到「中研院站」",
+                  "由中央研究院舊大門進入院區。",
+                  "沿著「數理大道」直行。",
+                  "走到底後左轉，往體育館方向前進。",
+                  "接著右轉，即可抵達學術活動中心（住宿處）。"
+                ]
+              },
+              {
+                title: "到洛碁忠孝館",
+                items: [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
             ],
             images: [
               {
@@ -1007,20 +1022,35 @@ window.CONFERENCE_SITE_DATA = {
             title: "3. Bus to Academia Sinica",
             layout: "guide",
             items: [
-              "Take bus 205, 212, 212 Express, 212 Night, 270, 276, 306, 620, or 645.",
-              "Other available routes include S12, Blue 25, 679, S5, S1, and Commuter 7.",
-              "From Nangang Station, common transfers include 306, 205, 276, S12, 212, 679, or S5.",
-              "Make sure the destination stop is Academia Sinica."
+              "When transferring from Nangang Exhibition Center Station, take buses: S5, S12, 205, 276, 306, 620, 645, or 679.",
+              "When transferring from Nangang Station, take buses: 270 or Blue 25.",
+              "Make sure to get off at the \"Academia Sinica\" stop."
             ]
           },
           {
-            title: "4. From the Academia Sinica Bus Stop to the Accommodation",
+            title: "4. How to get to the accommodation",
             layout: "guide",
-            items: [
-              "Enter the campus through the old main gate of Academia Sinica.",
-              "Walk straight along Shuli Avenue.",
-              "At the end, turn left toward the Gym.",
-              "Turn right to reach the Activity Center (accommodation)."
+            routes: [
+              {
+                title: "To Academia Sinica Activity Center",
+                items: [
+                  "Take a bus to the Academia Sinica stop.",
+                  "Enter the campus through the old main gate of Academia Sinica.",
+                  "Walk straight along Shuli Avenue.",
+                  "At the end, turn left toward the Gym.",
+                  "Turn right to reach the Activity Center (accommodation)."
+                ]
+              },
+              {
+                title: "To Green World Hotel Zhongxiao",
+                items: [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
             ],
             images: [
               {

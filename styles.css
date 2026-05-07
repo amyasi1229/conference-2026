@@ -634,9 +634,8 @@ img {
 }
 
 .info-sections .section-image img {
-  aspect-ratio: 16 / 9;
   max-height: none;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .info-sections .poster-section .section-image img {
