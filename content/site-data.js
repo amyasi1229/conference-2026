@@ -39,9 +39,10 @@ window.CONFERENCE_SITE_DATA = {
           "本次國際學術研討會由中央研究院近代史研究所（Institute of Modern History, IMH）與二十世紀中國史學會（Historical Society for Twentieth-Century China, HSTCC）聯合主辦。",
           "研討會主題為「重構跨越臺海的現代史：交纏、分歧與全球連結」，邀集來自臺灣、東亞及歐美的學者，從多元視角探討兩岸現代史的全球脈絡。本次會議特別鼓勵創新敘事與方法，期望對臺海兩岸的現代歷史進行批判性考察與重構。"
         ],
+        columnsTitle: "主辦單位",
         columns: [
           {
-            label: "Historical Society for Twentieth-Century China",
+            label: "二十世紀中國歷史協會",
             logos: [
               { src: "assets/images/mark-hstcc-custom.png", alt: "二十世紀中國史學會標誌" }
             ],
@@ -591,6 +592,7 @@ window.CONFERENCE_SITE_DATA = {
           "This international conference is jointly organized by the Institute of Modern History, Academia Sinica (IMH), and the Historical Society for Twentieth-Century China (HSTCC).",
           "The conference theme is \"Reframing Modern Histories Across the Taiwan Strait: Entanglements, Divergences, and Global Connections.\" It brings together scholars from Taiwan, East Asia, Europe, and the Americas to examine the global contexts of modern histories across the Taiwan Strait from multiple perspectives. The conference especially encourages innovative narratives and methodologies, with the aim of critically examining and reframing modern histories across the Taiwan Strait."
         ],
+        columnsTitle: "Organizers",
         columns: [
           {
             label: "Historical Society for Twentieth-Century China",

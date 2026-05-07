@@ -382,6 +382,10 @@
           .join("")}</div>`
       : "";
 
+    const columnsTitle = content.columnsTitle 
+      ? `<h2 class="home-columns-title">${escapeHTML(content.columnsTitle)}</h2>` 
+      : "";
+
     return `<section class="hero" style="--hero-image: url('${escapeHTML(data.site.heroImage)}')">
       <div class="hero-content">
         <p class="eyebrow">${escapeHTML(content.eyebrow)}</p>
@@ -395,6 +399,7 @@
       <div class="content-inner">
         ${highlights}
         ${intro}
+        ${columnsTitle}
         ${columns}
         ${renderCommonContent({ ...content, body: [], actions: [] })}
       </div>

@@ -242,6 +242,13 @@ html[lang="zh-Hant"] .page-hero h1 {
   margin-bottom: 1.35rem;
 }
 
+.home-columns-title {
+  text-align: center;
+  margin: 2.5rem 0 1.25rem;
+  color: var(--brand-dark);
+  font-size: clamp(1.4rem, 3vw, 2rem);
+}
+
 .home-columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
