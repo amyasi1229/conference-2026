@@ -212,6 +212,7 @@
                       (route) => `<article class="route-group">
                         <h3>${escapeHTML(route.title)}</h3>
                         <ol class="route-steps">${route.items.map((item) => `<li>${escapeHTML(item)}</li>`).join("")}</ol>
+                        ${renderActions(route.actions)}
                       </article>`
                     )
                     .join("")}</div>`

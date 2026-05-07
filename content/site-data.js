@@ -495,6 +495,9 @@ window.CONFERENCE_SITE_DATA = {
                   "沿著「數理大道」直行。",
                   "走到底後左轉，往體育館方向前進。",
                   "接著右轉，即可抵達學術活動中心（住宿處）。"
+                ],
+                actions: [
+                  { label: "學術活動中心GOOGLE MAP", url: "https://maps.app.goo.gl/GofydBw1MQJCenbaA", style: "primary" }
                 ]
               },
               {
@@ -504,11 +507,11 @@ window.CONFERENCE_SITE_DATA = {
                   "從3號出口出站",
                   "出站後沿玉成街往前方步行1分鐘",
                   "抵達目的地「洛碁大飯店 松山館」(左側)"
+                ],
+                actions: [
+                  { label: "洛碁大飯店 松山館GOOGLE MAP", url: "https://maps.app.goo.gl/wdf959uM6LBbga6GA", style: "primary" }
                 ]
               }
-            ],
-            actions: [
-              { label: "洛碁大飯店 松山館GOOGLE MAP", url: "https://maps.app.goo.gl/wdf959uM6LBbga6GA", style: "primary" }
             ],
             images: [
               {
@@ -1049,6 +1052,9 @@ window.CONFERENCE_SITE_DATA = {
                   "Walk straight along Shuli Avenue.",
                   "At the end, turn left toward the Gym.",
                   "Turn right to reach the Activity Center (accommodation)."
+                ],
+                actions: [
+                  { label: "Activity Center Google Map", url: "https://maps.app.goo.gl/GofydBw1MQJCenbaA", style: "primary" }
                 ]
               },
               {
@@ -1058,11 +1064,11 @@ window.CONFERENCE_SITE_DATA = {
                   "Leave from Exit 3.",
                   "Walk straight along Yucheng Street for 1 minute.",
                   "Arrive at Green World Hotel Songshan (on the left)."
+                ],
+                actions: [
+                  { label: "Green World Hotel Songshan Google Map", url: "https://maps.app.goo.gl/wdf959uM6LBbga6GA", style: "primary" }
                 ]
               }
-            ],
-            actions: [
-              { label: "Green World Hotel Songshan Google Map", url: "https://maps.app.goo.gl/wdf959uM6LBbga6GA", style: "primary" }
             ],
             images: [
               {
