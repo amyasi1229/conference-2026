@@ -240,6 +240,8 @@ html[lang="zh-Hant"] .page-hero h1 {
 .home-intro {
   max-width: 920px;
   margin-bottom: 1.35rem;
+  font-size: 1.25rem;
+  text-align: justify;
 }
 
 .home-columns-title {
@@ -262,6 +264,10 @@ html[lang="zh-Hant"] .page-hero h1 {
     linear-gradient(135deg, rgb(14 111 104 / 6%), transparent 46%),
     var(--paper);
   box-shadow: 0 12px 28px rgb(23 33 31 / 7%);
+}
+
+.home-columns article p {
+  text-align: justify;
 }
 
 .home-columns article::before {
@@ -879,8 +885,8 @@ html[lang="zh-Hant"] .page-hero h1 {
   margin: 0;
   opacity: 0;
   transform: translateX(-100%);
-  animation: infoSlide 12s infinite ease-in-out;
-  animation-delay: calc(var(--slide-index) * 4s);
+  animation: infoSlide 21s infinite ease-in-out;
+  animation-delay: calc(var(--slide-index) * 7s);
 }
 
 .info-slide img {
@@ -895,13 +901,13 @@ html[lang="zh-Hant"] .page-hero h1 {
     transform: translateX(-100%);
   }
 
-  8%,
-  33% {
+  4.76%,
+  28.57% {
     opacity: 1;
     transform: translateX(0);
   }
 
-  41%,
+  33.33%,
   100% {
     opacity: 0;
     transform: translateX(100%);
