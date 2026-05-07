@@ -957,6 +957,11 @@ html[lang="zh-Hant"] .page-hero h1 {
     var(--paper);
 }
 
+.info-block .prose {
+  max-width: 100%;
+  text-align: justify;
+}
+
 .info-block-heading {
   display: grid;
   grid-template-columns: auto 1fr;
