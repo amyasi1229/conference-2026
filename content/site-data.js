@@ -227,13 +227,14 @@ window.CONFERENCE_SITE_DATA = {
         ]
       },
       program: {
-        nav: "大會議程",
-        title: "大會議程",
-        summary: "大會議程與場次資訊。",
+        nav: "議程及與會學者",
+        title: "議程及與會學者",
+        summary: "大會議程、場次資訊及與會學者名單。",
         body: [],
         actions: [
           { label: "大會議程總表", url: "https://drive.google.com/file/d/1N2wg2fVaKFUuVSIq-7ASKr3aMbgeE7Pk", style: "primary" },
-          { label: "分組議程", url: "https://drive.google.com/file/d/17QyG-ovPynvjdSOnxDl3ea8HL0_z-FbE/edit", style: "secondary" },
+          { label: "分組議程", url: "https://docs.google.com/document/d/1Dnt1RySIk-bmoW_pV1s_SlvthJoEmf24/edit?usp=sharing&ouid=116934345849904324298&rtpof=true&sd=true", style: "secondary" },
+          { label: "與會學者名單", url: "https://docs.google.com/document/d/1lyxKuj2-h8rjMGcu5LHg4F-G6v2ajy5h/edit?usp=sharing&ouid=116934345849904324298&rtpof=true&sd=true", style: "secondary" },
           { label: "會議手冊", url: "#", style: "secondary" }
         ]
       },
@@ -755,13 +756,14 @@ window.CONFERENCE_SITE_DATA = {
         ]
       },
       program: {
-        nav: "Program",
-        title: "Program",
-        summary: "Conference schedule and session information.",
+        nav: "Program & Participants",
+        title: "Program & Participants",
+        summary: "Conference program, session information, and participant list.",
         body: [],
         actions: [
           { label: "Conference Program", url: "https://drive.google.com/file/d/1N2wg2fVaKFUuVSIq-7ASKr3aMbgeE7Pk", style: "primary" },
-          { label: "Parallel Sessions", url: "https://drive.google.com/file/d/17QyG-ovPynvjdSOnxDl3ea8HL0_z-FbE/edit", style: "secondary" },
+          { label: "Parallel Sessions", url: "https://docs.google.com/document/d/1Dnt1RySIk-bmoW_pV1s_SlvthJoEmf24/edit?usp=sharing&ouid=116934345849904324298&rtpof=true&sd=true", style: "secondary" },
+          { label: "Participant List", url: "https://docs.google.com/document/d/1lyxKuj2-h8rjMGcu5LHg4F-G6v2ajy5h/edit?usp=sharing&ouid=116934345849904324298&rtpof=true&sd=true", style: "secondary" },
           { label: "Conference Handbook", url: "#", style: "secondary" }
         ]
       },
