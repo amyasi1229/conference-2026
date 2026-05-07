@@ -7,7 +7,7 @@ window.CONFERENCE_SITE_DATA = {
     date: "2026年8月4日至8月6日",
     location: "中央研究院近代史研究所，臺北",
     footerText: "二十世紀中國歷史協會與中央研究院近代史研究所聯合主辦。",
-    registrationUrl: "https://forms.gle/REPLACE_WITH_GOOGLE_FORM_ID",
+    registrationUrl: "https://forms.gle/iHhe8SePij9A99RY8",
     submissionUrl: "#/zh/info",
     heroImage: "assets/images/hero-2026.png"
   },
@@ -32,6 +32,7 @@ window.CONFERENCE_SITE_DATA = {
       home: {
         nav: "首頁",
         title: "重構跨越臺海的現代史",
+        heroSubtitle: "交纏、分歧與全球連結",
         eyebrow: "2026 國際學術研討會",
         summary:
           "Reframing Modern Histories Across the Taiwan Strait: Entanglements, Divergences, and Global Connections",
