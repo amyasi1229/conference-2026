@@ -497,15 +497,17 @@ window.CONFERENCE_SITE_DATA = {
                 ]
               },
               {
-                title: "到洛碁忠孝館",
+                title: "到洛碁大飯店 松山館",
                 items: [
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "搭乘捷運板南線(藍線)到後山埤站",
+                  "從3號出口出站",
+                  "出站後沿玉成街往前方步行1分鐘",
+                  "抵達目的地「洛碁大飯店 松山館」(左側)"
                 ]
               }
+            ],
+            actions: [
+              { label: "洛碁大飯店 松山館GOOGLE MAP", url: "https://maps.app.goo.gl/wdf959uM6LBbga6GA", style: "primary" }
             ],
             images: [
               {
@@ -518,6 +520,12 @@ window.CONFERENCE_SITE_DATA = {
                 src: "assets/images/activity-center-front.jpg",
                 alt: "學術活動中心正門",
                 caption: "活動中心正門",
+                enlarge: true
+              },
+              {
+                src: "assets/images/hotel-songshan.jpg",
+                alt: "洛碁大飯店 松山館正門",
+                caption: "洛碁大飯店 松山館正門",
                 enlarge: true
               }
             ]
@@ -1042,15 +1050,17 @@ window.CONFERENCE_SITE_DATA = {
                 ]
               },
               {
-                title: "To Green World Hotel Zhongxiao",
+                title: "To Green World Hotel Songshan",
                 items: [
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "Take the MRT Bannan Line (Blue Line) to Houshanpi Station.",
+                  "Leave from Exit 3.",
+                  "Walk straight along Yucheng Street for 1 minute.",
+                  "Arrive at Green World Hotel Songshan (on the left)."
                 ]
               }
+            ],
+            actions: [
+              { label: "Green World Hotel Songshan Google Map", url: "https://maps.app.goo.gl/wdf959uM6LBbga6GA", style: "primary" }
             ],
             images: [
               {
@@ -1063,6 +1073,12 @@ window.CONFERENCE_SITE_DATA = {
                 src: "assets/images/activity-center-front.jpg",
                 alt: "Front entrance of the Activity Center",
                 caption: "Activity Center front entrance",
+                enlarge: true
+              },
+              {
+                src: "assets/images/hotel-songshan.jpg",
+                alt: "Green World Hotel Songshan front entrance",
+                caption: "Green World Hotel Songshan front entrance",
                 enlarge: true
               }
             ]
