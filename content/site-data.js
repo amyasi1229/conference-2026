@@ -1,4 +1,4 @@
-﻿window.CONFERENCE_SITE_DATA = {
+window.CONFERENCE_SITE_DATA = {
   site: {
     version: "2026-05-07-events-flow-layout",
     shortTitle: "2026",
@@ -48,7 +48,7 @@
             logos: [
               { src: "assets/images/mark-hstcc-custom.png", alt: "二十世紀中國史學會標誌" }
             ],
-            text: "HSTCC 是國際研究現代中國的重要學術組織，其附屬期刊<a href=\"https://muse.jhu.edu/journal/390\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《二十世紀中國》（Twentieth-Century China）</a>由約翰霍普金斯大學出版社出版，亦為美國人文學界的核心期刊之一。"
+            text: "二十世紀中國史學會（Historical Society for Twentieth-Century China, HSTCC）是國際研究現代中國的重要學術組織，其附屬期刊<a href=\"https://muse.jhu.edu/journal/390\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《二十世紀中國》（Twentieth-Century China）</a>由約翰霍普金斯大學出版社出版，亦為美國人文學界的核心期刊之一。"
           },
           {
             label: "中央研究院近代史研究所",
