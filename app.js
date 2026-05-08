@@ -413,8 +413,8 @@
     const content = t(page);
     document.documentElement.lang = lang === "zh" ? "zh-Hant" : "en";
     document.title = content.nav === "首頁" || content.nav === "Home" 
-      ? "2026重構跨越台海的現代史 | 會議官網" 
-      : `${content.title} | 2026重構跨越台海的現代史 | 會議官網`;
+      ? "2026重構跨越臺海的現代史 | 會議官網" 
+      : `${content.title} | 2026重構跨越臺海的現代史 | 會議官網`;
 
     document.querySelectorAll("[data-bind]").forEach((node) => {
       const path = node.dataset.bind.split(".");
