@@ -1,12 +1,12 @@
-window.CONFERENCE_SITE_DATA = {
+﻿window.CONFERENCE_SITE_DATA = {
   site: {
     version: "2026-05-07-events-flow-layout",
     shortTitle: "2026",
     title: "重構跨越臺海的現代史",
     host: "重構跨越臺海的現代史",
-    date: "2026年8月4日至8月6日",
+    date: "2026年8月4日（星期二）至8月6日（星期四）",
     location: "中央研究院近代史研究所，臺北",
-    footerText: "二十世紀中國歷史協會與中央研究院近代史研究所聯合主辦。",
+    footerText: "二十世紀中國史學會與中央研究院近代史研究所聯合主辦。",
     registrationUrl: "https://forms.gle/iHhe8SePij9A99RY8",
     submissionUrl: "#/zh/info",
     heroImage: "assets/images/hero-2026.png"
@@ -43,7 +43,7 @@ window.CONFERENCE_SITE_DATA = {
         columnsTitle: "主辦單位",
         columns: [
           {
-            label: "二十世紀中國歷史協會",
+            label: "二十世紀中國史學會",
             url: "https://hstcconline.org/",
             logos: [
               { src: "assets/images/mark-hstcc-custom.png", alt: "二十世紀中國史學會標誌" }
@@ -60,7 +60,7 @@ window.CONFERENCE_SITE_DATA = {
           }
         ],
         highlights: [
-          { label: "會議日期", value: "2026年8月4日至8月6日" },
+          { label: "會議日期", value: "2026年8月4日（星期二）至8月6日（星期四）" },
           { label: "會議地點", value: "中央研究院近代史研究所，臺北" },
           { label: "投稿截止", value: "2025年10月31日（星期五）" }
         ],
@@ -142,7 +142,7 @@ window.CONFERENCE_SITE_DATA = {
             summary: "HSTCC 會員資格、註冊費與繳費注意事項。",
             body: [
               "會議發表人須為 HSTCC 有效會員並已繳交會費。年度會費為美金67元，研究生可免繳；會費包含會議註冊費及《二十世紀中國》電子版期刊之閱覽權限。",
-              "若您已是 HSTCC 會員，請確認會員資格在2026年8月4日至8月6日會議期間仍然有效；若屆時資格已過期，請務必完成續會。",
+              "若您已是 HSTCC 會員，請確認會員資格在2026年8月4日（星期二）至8月6日（星期四）會議期間仍然有效；若屆時資格已過期，請務必完成續會。",
               "完成繳費即視同完成會議註冊，無需填寫額外表單。若信用卡付款失敗，建議先更換信用卡，仍無法付款時可依 HSTCC 說明改用支票付款。"
             ],
             items: [
@@ -164,7 +164,7 @@ window.CONFERENCE_SITE_DATA = {
               { q: "圓桌論壇的成員是否需要繳納註冊費？", a: "是的，除研究生以外，所有參與圓桌論壇的成員均須繳費。" },
               { q: "完成繳費後，並未看到後續的會議註冊或報名表單？", a: "完成繳費即視同完成會議註冊，無需填寫額外表單。請務必妥善保存您的繳費收據以備查驗。" },
               { q: "研究生免繳會費，該如何確認已完成參會程序？", a: "研究生收到論文接受函（Acceptance Letter）後，即視為註冊完成，無需進行其他確認步驟。" },
-              { q: "原本已是 HSTCC 會員，或投稿前已加入會員，是否需再繳費？", a: "請確認您的會員資格在會議期間（2026年8月4日至8月6日）是否仍然有效。您必須是 HSTCC 的有效會員方能參加會議；若屆時資格已過期，請務必繳費註冊（續會）。" },
+              { q: "原本已是 HSTCC 會員，或投稿前已加入會員，是否需再繳費？", a: "請確認您的會員資格在會議期間（2026年8月4日（星期二）至8月6日（星期四））是否仍然有效。您必須是 HSTCC 的有效會員方能參加會議；若屆時資格已過期，請務必繳費註冊（續會）。" },
               { q: "若無法以信用卡繳費，有無其他支付方式？", a: "建議您先嘗試更換另一張信用卡。若仍無法成功，可改用支票（Check）付款，詳細資訊請參閱 HSTCC 繳費網頁說明。" },
               { q: "中國籍學者與學生來臺出席會議的簽證問題如何處理？", a: "近史所將協助持中國護照的學者及學生辦理入臺證，相關細節將於2026年3月統一通知。" },
               { q: "除論文接受函外，主辦方會另外寄發會議邀請函嗎？", a: "原則上，論文接受函即視為邀請函。如您因報帳或請假需求需要特殊格式的正式邀請函，請來信提供個人資訊及所需格式。" },
@@ -251,7 +251,7 @@ window.CONFERENCE_SITE_DATA = {
             label: "01",
             title: "跨越臺海的史料現場：檔案館・圖書館・胡適紀念館三館聯展",
             text: "敬請期待",
-            meta: "時間：2026年8月4日至8月6日｜地點：近史所檔案館1樓左側廊道",
+            meta: "時間：2026年8月4日（星期二）至8月6日（星期四）｜地點：近史所檔案館1樓左側廊道",
             groups: [
               {
                 title: "參展館室",
@@ -301,7 +301,7 @@ window.CONFERENCE_SITE_DATA = {
             label: "03",
             title: "國際學術出版社書展",
             text: "本研討會匯聚來自臺灣、東亞與歐美各地的尖端學者，從多元視角探討臺海兩岸現代史的全球連結，推動跨區域與跨國史的新對話。為深化學術社群與出版界的互動，特別設置「國際學術出版書展」專區，展示近代東亞史研究的豐碩出版成果，促進出版社、作者與讀者的聯繫與交流。",
-            meta: "時間：2026年8月4日至8月6日｜地點：近史所檔案館2樓迴廊區",
+            meta: "時間：2026年8月4日（星期二）至8月6日（星期四）｜地點：近史所檔案館2樓迴廊區",
             groups: [
               {
                 title: "參展出版社",
@@ -593,7 +593,7 @@ window.CONFERENCE_SITE_DATA = {
         heroTitle: "Reframing Modern Histories Across the Taiwan Strait",
         heroSubtitle: "Entanglements, Divergences, and Global Connections",
         eyebrow: "2026 International Conference",
-        summary: "August 4-6, 2026 | Institute of Modern History, Academia Sinica, Taipei",
+        summary: "August 4 (Tuesday) - 6 (Thursday), 2026 | Institute of Modern History, Academia Sinica, Taipei",
         body: [
           "This international conference is jointly organized by the Institute of Modern History, Academia Sinica (IMH), and the Historical Society for Twentieth-Century China (HSTCC).",
           "The conference theme is \"Reframing Modern Histories Across the Taiwan Strait: Entanglements, Divergences, and Global Connections.\" It brings together scholars from Taiwan, East Asia, Europe, and the Americas to examine the global contexts of modern histories across the Taiwan Strait from multiple perspectives. The conference especially encourages innovative narratives and methodologies, with the aim of critically examining and reframing modern histories across the Taiwan Strait."
@@ -618,7 +618,7 @@ window.CONFERENCE_SITE_DATA = {
           }
         ],
         highlights: [
-          { label: "Dates", value: "August 4-6, 2026" },
+          { label: "Dates", value: "August 4 (Tuesday) - 6 (Thursday), 2026" },
           { label: "Venue", value: "Institute of Modern History, Academia Sinica, Taipei" },
           { label: "Submission Deadline", value: "October 31, 2025" }
         ],
@@ -700,7 +700,7 @@ window.CONFERENCE_SITE_DATA = {
             summary: "HSTCC membership, registration, and payment notes.",
             body: [
               "Conference presenters must be active HSTCC members and have paid the required dues. Annual dues are USD 67, with graduate students exempt. Membership includes conference registration and access to the electronic edition of Twentieth-Century China.",
-              "If you are already an HSTCC member, please ensure that your membership remains valid throughout the conference dates, August 4-6, 2026. If it expires before then, please renew your membership.",
+              "If you are already an HSTCC member, please ensure that your membership remains valid throughout the conference dates, August 4 (Tuesday) - 6 (Thursday), 2026. If it expires before then, please renew your membership.",
               "Conference registration is deemed complete once payment has been made. If credit-card payment fails, please try another card first; if the issue persists, payment by check may be used according to HSTCC instructions."
             ],
             items: [
@@ -722,7 +722,7 @@ window.CONFERENCE_SITE_DATA = {
               { q: "Are participants in roundtables required to pay the registration fee?", a: "Yes, all roundtable participants are required to pay the fee, with the exception of graduate students." },
               { q: "I have paid the fee but did not see a subsequent registration form. What should I do?", a: "Conference registration is deemed complete once payment has been made. No further forms are required. Please retain your payment receipt or proof of payment for your records." },
               { q: "Since graduate students are exempt from dues, how is their attendance confirmed?", a: "For graduate students, receiving the Letter of Acceptance serves as confirmation of registration. No further action is needed." },
-              { q: "I am already an HSTCC member, or joined before submission. Do I need to pay again?", a: "Please ensure your membership is valid during the conference dates, August 4-6, 2026. Participation requires an active HSTCC membership. If your membership expires before these dates, you must renew and pay the requisite fees." },
+              { q: "I am already an HSTCC member, or joined before submission. Do I need to pay again?", a: "Please ensure your membership is valid during the conference dates, August 4 (Tuesday) - 6 (Thursday), 2026. Participation requires an active HSTCC membership. If your membership expires before these dates, you must renew and pay the requisite fees." },
               { q: "I cannot pay via credit card. Are there alternative payment methods?", a: "We suggest trying a different credit card first. If the issue persists, payment by check is accepted. Please refer to the instructions on the HSTCC payment webpage for details." },
               { q: "How do scholars and students holding PRC passports apply for visas to enter Taiwan?", a: "The Institute of Modern History will assist scholars and students holding PRC passports with the entry permit application. Detailed instructions will be announced in March 2026." },
               { q: "Will a separate conference invitation letter be issued in addition to the acceptance letter?", a: "The Letter of Acceptance serves as the official invitation. If you require a specific format for funding or administrative purposes, please email us with your personal details and the required format." },
@@ -760,7 +760,7 @@ window.CONFERENCE_SITE_DATA = {
           },
           {
             title: "I am already an HSTCC member, or joined before submission. Do I need to pay again?",
-            text: "Please ensure your membership is valid during the conference dates, August 4-6, 2026. Participation requires an active HSTCC membership. If your membership expires before these dates, you must renew and pay the requisite fees."
+            text: "Please ensure your membership is valid during the conference dates, August 4 (Tuesday) - 6 (Thursday), 2026. Participation requires an active HSTCC membership. If your membership expires before these dates, you must renew and pay the requisite fees."
           },
           {
             title: "I cannot pay via credit card. Are there alternative payment methods?",
@@ -809,7 +809,7 @@ window.CONFERENCE_SITE_DATA = {
             label: "01",
             title: "Across the Taiwan Strait: Historical Materials in the Archives, Library, and Hu Shih Memorial Hall",
             text: "Coming soon",
-            meta: "Date: August 4-6, 2026 | Venue: Left-side corridor, 1F, IMH Archives Building",
+            meta: "Date: August 4 (Tuesday) - 6 (Thursday), 2026 | Venue: Left-side corridor, 1F, IMH Archives Building",
             groups: [
               {
                 title: "Participating Units",
@@ -859,7 +859,7 @@ window.CONFERENCE_SITE_DATA = {
             label: "03",
             title: "International Academic Publishers Exhibition",
             text: "This conference convenes leading scholars from Taiwan, East Asia, Europe, and the Americas to examine the global interconnections of modern history across the Taiwan Strait. To deepen interaction between the scholarly community and the publishing world, a dedicated International Academic Publishers Exhibition will showcase recent achievements in modern East Asian historical studies and facilitate connections among publishers, authors, and readers.",
-            meta: "Date: August 4-6, 2026 | Venue: 2F corridor, IMH Archives Building",
+            meta: "Date: August 4 (Tuesday) - 6 (Thursday), 2026 | Venue: 2F corridor, IMH Archives Building",
             groups: [
               {
                 title: "Exhibitors",
