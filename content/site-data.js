@@ -60,9 +60,9 @@ window.CONFERENCE_SITE_DATA = {
           }
         ],
         highlights: [
-          { label: "會議日期", value: "2026年8月4日（星期二）至8月6日（星期四）" },
+          { label: "會議日期", value: "2026年8月4日（二）至8月6日（四）" },
           { label: "會議地點", value: "中央研究院近代史研究所，臺北" },
-          { label: "投稿截止", value: "2025年10月31日（星期五）" }
+          { label: "投稿截止", value: "2025年10月31日（五）" }
         ],
         actions: [
           { label: "報名系統", urlKey: "registrationUrl", style: "primary" },
@@ -593,7 +593,7 @@ window.CONFERENCE_SITE_DATA = {
         heroTitle: "Reframing Modern Histories Across the Taiwan Strait",
         heroSubtitle: "Entanglements, Divergences, and Global Connections",
         eyebrow: "2026 International Conference",
-        summary: "August 4 (Tuesday) - 6 (Thursday), 2026 | Institute of Modern History, Academia Sinica, Taipei",
+        summary: "August 4 (Tue.) - 6 (Thu.), 2026 | Institute of Modern History, Academia Sinica, Taipei",
         body: [
           "This international conference is jointly organized by the Institute of Modern History, Academia Sinica (IMH), and the Historical Society for Twentieth-Century China (HSTCC).",
           "The conference theme is \"Reframing Modern Histories Across the Taiwan Strait: Entanglements, Divergences, and Global Connections.\" It brings together scholars from Taiwan, East Asia, Europe, and the Americas to examine the global contexts of modern histories across the Taiwan Strait from multiple perspectives. The conference especially encourages innovative narratives and methodologies, with the aim of critically examining and reframing modern histories across the Taiwan Strait."
@@ -618,7 +618,7 @@ window.CONFERENCE_SITE_DATA = {
           }
         ],
         highlights: [
-          { label: "Dates", value: "August 4 (Tuesday) - 6 (Thursday), 2026" },
+          { label: "Dates", value: "August 4 (Tue.) - 6 (Thu.), 2026" },
           { label: "Venue", value: "Institute of Modern History, Academia Sinica, Taipei" },
           { label: "Submission Deadline", value: "October 31, 2025" }
         ],
