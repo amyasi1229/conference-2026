@@ -44,17 +44,19 @@ window.CONFERENCE_SITE_DATA = {
         columns: [
           {
             label: "二十世紀中國歷史協會",
+            url: "https://hstcconline.org/",
             logos: [
               { src: "assets/images/mark-hstcc-custom.png", alt: "二十世紀中國史學會標誌" }
             ],
-            text: "HSTCC 是國際研究現代中國的重要學術組織，其附屬期刊《二十世紀中國》（Twentieth-Century China）由約翰霍普金斯大學出版社出版，亦為美國人文學界的核心期刊之一。"
+            text: "HSTCC 是國際研究現代中國的重要學術組織，其附屬期刊<a href=\"https://muse.jhu.edu/journal/390\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《二十世紀中國》（Twentieth-Century China）</a>由約翰霍普金斯大學出版社出版，亦為美國人文學界的核心期刊之一。"
           },
           {
             label: "中央研究院近代史研究所",
+            url: "https://www.mh.sinica.edu.tw/",
             logos: [
               { src: "assets/images/mark-imh.png", alt: "中央研究院近代史研究所所徽" }
             ],
-            text: "中央研究院近代史研究所自創立以來，以中國與臺灣為核心，從長時段視野探討全球華語社群及現代東亞的區域連結，是研究近代中國乃至東亞地區過去四百年歷史的學術重鎮。本所出版之重點期刊如《中央研究院近代史研究所集刊》、《近代中國婦女史研究》、《口述歷史》。"
+            text: "中央研究院近代史研究所自創立以來，以中國與臺灣為核心，從長時段視野探討全球華語社群及現代東亞的區域連結，是研究近代中國乃至東亞地區過去四百年歷史的學術重鎮。本所出版之重點期刊如<a href=\"https://www.mh.sinica.edu.tw/bulletins.aspx\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《中央研究院近代史研究所集刊》</a>、<a href=\"https://www.mh.sinica.edu.tw/rwmch.aspx\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《近代中國婦女史研究》</a>、<a href=\"https://www.mh.sinica.edu.tw/Historicalsources.aspx?minor=4&pageNumber=1\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《口述歷史》</a>。"
           }
         ],
         highlights: [
@@ -103,7 +105,7 @@ window.CONFERENCE_SITE_DATA = {
             body: [
               "有關本次會議之議程、住宿安排及入臺證申請等事項，主辦單位已於3月13日及4月2日以電子郵件通知所有與會學者，並將另行發出第3次電子郵件通知。如尚未收到通知，敬請各場次成員協助互相轉知。",
               "各項申請截止日期為4月19日。考量住宿房間數量有限及整體安排需求，4月20日（含）之後將無法保證提供住宿，尚未完成申請者須自行安排住宿。",
-              "與會者請自行負責交通費。主辦單位將提供中央研究院學術活動中心四晚住宿，自2026年8月3日入住，8月7日退房；會議期間亦提供午餐與晚餐。",
+              "與會者請自行負責交通費。主辦單位將提供住宿，地點為中央研究院學術活動中心或洛碁大飯店松山館。國外學者安排四晚（2026 年 8 月 3 日入住，8 月 7 日退房），國內學者安排三晚（2026 年 8 月 3 日入住，8 月 6 日退房）。會議期間並提供午餐與晚餐。",
               "未訂機票者亦可先行填寫住宿申請；若需攜伴或延長住宿，請於調查表註明或來信告知。訂房完成後將提供飯店資訊，異動請自行與飯店聯繫。",
               "本會議僅補助會議期間之單人房住宿費，相關差額及額外費用需由與會者自行負擔。",
               "持中國護照之學者與學生來臺須以短期專業交流名義申請入臺證，不得以觀光名義入境。近史所將協助辦理，詳細申請方式將於2026年3月統一通知。",
@@ -389,7 +391,7 @@ window.CONFERENCE_SITE_DATA = {
             title: "人文社會科學研究中心",
             items: [
               "第三會場：中研院人文社會科學研究中心第一會議室",
-              "第三會場：中研院人文社會科學研究中心第二會議室"
+              "第四會場：中研院人文社會科學研究中心第二會議室"
             ],
             images: [
               {
@@ -600,17 +602,19 @@ window.CONFERENCE_SITE_DATA = {
         columns: [
           {
             label: "Historical Society for Twentieth-Century China",
+            url: "https://hstcconline.org/",
             logos: [
               { src: "assets/images/mark-hstcc-custom.png", alt: "Historical Society for Twentieth-Century China mark" }
             ],
-            text: "HSTCC is a major international scholarly organization for the study of modern China. Its affiliated journal, Twentieth-Century China, is published by Johns Hopkins University Press and is among the key journals in the American humanities field."
+            text: "HSTCC is a major international scholarly organization for the study of modern China. Its affiliated journal, <a href=\"https://muse.jhu.edu/journal/390\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">Twentieth-Century China</a>, is published by Johns Hopkins University Press and is among the key journals in the American humanities field."
           },
           {
             label: "Institute of Modern History, Academia Sinica",
+            url: "https://www.mh.sinica.edu.tw/",
             logos: [
               { src: "assets/images/mark-imh.png", alt: "Institute of Modern History, Academia Sinica emblem" }
             ],
-            text: "Since its founding, the Institute of Modern History, Academia Sinica has taken China and Taiwan as core areas of research, examining global Chinese communities and regional connections in modern East Asia from long-term historical perspectives. It is a leading center for the study of modern China and East Asia over the past four hundred years. Its major journals include Bulletin of the Institute of Modern History, Academia Sinica; Research on Women in Modern Chinese History; and Oral History."
+            text: "Since its founding, the Institute of Modern History, Academia Sinica has taken China and Taiwan as core areas of research, examining global Chinese communities and regional connections in modern East Asia from long-term historical perspectives. It is a leading center for the study of modern China and East Asia over the past four hundred years. Its major journals include <a href=\"https://www.mh.sinica.edu.tw/bulletins.aspx\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">Bulletin of the Institute of Modern History, Academia Sinica</a>; <a href=\"https://www.mh.sinica.edu.tw/rwmch.aspx\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">Research on Women in Modern Chinese History</a>; and <a href=\"https://www.mh.sinica.edu.tw/Historicalsources.aspx?minor=4&pageNumber=1\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">Oral History</a>."
           }
         ],
         highlights: [
@@ -659,7 +663,7 @@ window.CONFERENCE_SITE_DATA = {
             body: [
               "Information regarding the conference program, accommodation arrangements, and entry permit applications has been sent to all participants via email on March 13 and April 2. A third notification email will be sent shortly. If you have not received any of these messages, please kindly check with other members of your panel.",
               "The deadline for all applications is April 19. Due to the limited number of rooms and overall logistical considerations, accommodation cannot be guaranteed after April 20. Participants who fail to complete the application by the deadline will need to arrange their own accommodation.",
-              "Participants are responsible for their own transportation expenses. The organizers will provide four nights of accommodation at the Academia Sinica Activity Center, checking in on August 3 and checking out on August 7, 2026. Lunch and dinner will be provided during the conference.",
+              "Participants are responsible for their own transportation expenses. The organizers will provide accommodation at either the Activity Center of Academia Sinica or Green World Hotel Songshan. International scholars will be provided with four nights of accommodation (check-in on August 3, check-out on August 7, 2026), while domestic scholars will receive three nights (check-in on August 3, check-out on August 6, 2026). Lunch and dinner will be provided during the conference.",
               "Participants may submit the accommodation form before booking flights. If you will be accompanied by another person or need an extended stay, please note this in the form or contact the organizers. Hotel information will be provided after booking is completed.",
               "The conference will cover the cost of a single room during the conference period only. Any additional costs or differences shall be borne by the participant.",
               "Scholars and students holding PRC passports must apply for entry permits under the category of short-term professional exchange and may not enter Taiwan for this conference as tourists. Detailed instructions will be announced in March 2026.",
@@ -945,7 +949,7 @@ window.CONFERENCE_SITE_DATA = {
             title: "Research Center for Humanities and Social Sciences",
             items: [
               "Venue 3: Conference Room 1, Research Center for Humanities and Social Sciences, Academia Sinica",
-              "Venue 3: Conference Room 2, Research Center for Humanities and Social Sciences, Academia Sinica"
+              "Venue 4: Conference Room 2, Research Center for Humanities and Social Sciences, Academia Sinica"
             ],
             images: [
               {

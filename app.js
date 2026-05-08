@@ -378,7 +378,8 @@
                   .map((logo) => `<img src="${escapeHTML(logo.src)}" alt="${escapeHTML(logo.alt)}" loading="lazy" />`)
                   .join("")}</div>`
               : "";
-            return `<article>${logos}${column.label ? `<strong class="home-card-title">${escapeHTML(column.label)}</strong>` : ""}<p>${escapeHTML(column.text)}</p></article>`;
+            const labelContent = column.url ? `<a href="${escapeHTML(column.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(column.label)}</a>` : escapeHTML(column.label);
+            return `<article>${logos}${column.label ? `<strong class="home-card-title">${labelContent}</strong>` : ""}<p>${column.text}</p></article>`;
           })
           .join("")}</div>`
       : "";

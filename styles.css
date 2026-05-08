@@ -230,6 +230,10 @@ html[lang="zh-Hant"] .page-hero h1 {
   overflow-wrap: anywhere;
 }
 
+html[lang="zh-Hant"] .hero-summary {
+  font-size: 1.45rem;
+}
+
 .actions {
   display: flex;
   flex-wrap: wrap;
@@ -301,8 +305,18 @@ html[lang="zh-Hant"] .page-hero h1 {
   display: block;
   margin-bottom: 0.65rem;
   color: var(--brand-dark);
-  font-size: 0.95rem;
+  font-size: 1.15rem;
   line-height: 1.4;
+}
+
+.home-card-title a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  color: inherit;
+}
+
+.home-card-title a:hover {
+  color: var(--brand);
 }
 
 .home-columns p {
@@ -1400,6 +1414,10 @@ html[lang="zh-Hant"] .page-hero h1 {
   .hero-summary,
   .page-hero p {
     font-size: 0.98rem;
+  }
+
+  html[lang="zh-Hant"] .hero-summary {
+    font-size: 1.2rem;
   }
 
   .actions {
