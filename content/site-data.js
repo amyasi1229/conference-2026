@@ -6,7 +6,7 @@ window.CONFERENCE_SITE_DATA = {
     host: "重構跨越臺海的現代史",
     date: "2026年8月4日（星期二）至8月6日（星期四）",
     location: "中央研究院近代史研究所，臺北",
-    footerText: "二十世紀中國史學會與中央研究院近代史研究所聯合主辦。",
+    footerText: "二十世紀中國歷史協會與中央研究院近代史研究所聯合主辦。",
     registrationUrl: "https://forms.gle/iHhe8SePij9A99RY8",
     submissionUrl: "#/zh/info",
     heroImage: "assets/images/hero-2026.png"
@@ -37,18 +37,18 @@ window.CONFERENCE_SITE_DATA = {
         summary:
           "Reframing Modern Histories Across the Taiwan Strait: Entanglements, Divergences, and Global Connections",
         body: [
-          "本次國際學術研討會由中央研究院近代史研究所（Institute of Modern History, IMH）與二十世紀中國史學會（Historical Society for Twentieth-Century China, HSTCC）聯合主辦。",
+          "本次國際學術研討會由中央研究院近代史研究所（Institute of Modern History, IMH）與二十世紀中國歷史協會（Historical Society for Twentieth-Century China, HSTCC）聯合主辦。",
           "研討會主題為「重構跨越臺海的現代史：交纏、分歧與全球連結」，邀集來自臺灣、東亞及歐美的學者，從多元視角探討兩岸現代史的全球脈絡。本次會議特別鼓勵創新敘事與方法，期望對臺海兩岸的現代歷史進行批判性考察與重構。"
         ],
         columnsTitle: "主辦單位",
         columns: [
           {
-            label: "二十世紀中國史學會",
+            label: "二十世紀中國歷史協會",
             url: "https://hstcconline.org/",
             logos: [
-              { src: "assets/images/mark-hstcc-custom.png", alt: "二十世紀中國史學會標誌" }
+              { src: "assets/images/mark-hstcc-custom.png", alt: "二十世紀中國歷史協會標誌" }
             ],
-            text: "二十世紀中國史學會（Historical Society for Twentieth-Century China, HSTCC）是國際研究現代中國的重要學術組織，其附屬期刊<a href=\"https://muse.jhu.edu/journal/390\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《二十世紀中國》（Twentieth-Century China）</a>由約翰霍普金斯大學出版社出版，亦為美國人文學界的核心期刊之一。"
+            text: "二十世紀中國歷史協會（Historical Society for Twentieth-Century China, HSTCC）是國際研究現代中國的重要學術組織，其附屬期刊<a href=\"https://muse.jhu.edu/journal/390\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: underline; text-underline-offset: 4px;\">《二十世紀中國》（Twentieth-Century China）</a>由約翰霍普金斯大學出版社出版，亦為美國人文學界的核心期刊之一。"
           },
           {
             label: "中央研究院近代史研究所",
