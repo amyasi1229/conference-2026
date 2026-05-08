@@ -324,6 +324,17 @@ html[lang="zh-Hant"] .hero-summary {
   line-height: 1.9;
 }
 
+.home-columns p a {
+  color: var(--brand-dark);
+  text-decoration-color: var(--brand-dark);
+  transition: color 0.2s;
+}
+
+.home-columns p a:hover {
+  color: var(--brand);
+  text-decoration-color: var(--brand);
+}
+
 .button {
   display: inline-flex;
   min-height: 44px;
