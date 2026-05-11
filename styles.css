@@ -475,7 +475,7 @@ html[lang="zh-Hant"] .hero-summary {
 .event-feature-hero {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(120px, 0.18fr) 1fr;
+  grid-template-columns: 200px 1fr;
   gap: 1.1rem;
   min-height: 170px;
   overflow: hidden;
